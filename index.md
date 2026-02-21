@@ -3,7 +3,13 @@ layout: home
 title: Governance & Research Blog
 ---
 
-Welcome. Posts:
+# Anjar Priandoyo
+
+content...
+
+---
+
+## Blog Posts   <-- section header
 
 <ul>
   {% for post in site.posts %}
