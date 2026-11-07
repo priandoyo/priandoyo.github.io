@@ -3,7 +3,7 @@ layout: home
 title: Governance & Research Blog
 ---
 
-# Anjar Priandoyo
+# Anjar Priandoyo on Github
 
 Governance • Risk • Research • IT
 
