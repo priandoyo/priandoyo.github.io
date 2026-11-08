@@ -61,3 +61,17 @@ I treat governance as research:
 - model behavior
 - test assumptions
 - refine understanding
+
+---
+
+## Coding Progress
+
+I document my practical learning journey in:
+
+- Web development
+- Software engineering
+- Programming and frameworks
+- Application security
+- Governance by Design
+
+[View Weekly Coding Progress](/progress/)
